@@ -1,1 +1,1 @@
-abc&ded
+abc&ded&d
